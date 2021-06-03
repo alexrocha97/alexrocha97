@@ -9,10 +9,10 @@
 - 🔭Currently, I am studying programming focused on junior developer [Blue Tech](https://portal.thefutureisblue.me/)  
   
 
-- 🌱📚 Currently, I am learning by learning intermediate level of Python, SQL Database, HTML, CSS ...  
+- 🌱📚 Currently, I am learning by learning intermediate level of Python,C# .NET Core, SQL, MySQL,SQL server, HTML, CSS (...)  
   
 
-- 🤓 Teach me about anything related to technology, Python or programming and you will have my respect for eternity ... hehehe
+- 🤓 Teach me about anything related to technology or programming and you will have my respect for eternity ... hehehe
   
   
 
