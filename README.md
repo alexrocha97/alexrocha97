@@ -26,7 +26,7 @@
 
   ### <div align="center">I'm Alex Ventura, junior developer 👨‍💻starting career and student since 2020 🚀📚</div>  
   
-- 🔭Currently, I am studying programming focused on junior developer [Blue Tech](https://portal.thefutureisblue.me/)[Balta.io](https://balta.io/player)  
+- 🔭Currently, I am studying programming focused on junior developer [Blue Tech](https://portal.thefutureisblue.me/) [Balta.io](https://balta.io/player)  
 
 - 🌱📚 Currently, I am learning by learning intermediate level of Python,C# .NET Core, SQL, MySQL,SQL server, HTML, CSS (...)  
   
