@@ -1,4 +1,4 @@
-## Olá, bem vindo! Eu sou o Alex Ventura 
+## Olá, bem vindo! Eu sou o Alex Ventura, mas as vezes hokage da vila da folha. hahaha
  <div>
   <a href="https://github.com/alexrocha97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexrocha97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
