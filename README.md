@@ -35,6 +35,10 @@
   
   ##
   
+  ### Demonstração de Conhecimentos
+
+- [Backend em .Net Core: API com arquitetura DDD](https://github.com/alexrocha97/Api_arquitetura_DDD)
+  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alexrocha97&color=green" alt="alexrocha97" />   
 </div>  
