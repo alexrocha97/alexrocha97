@@ -40,6 +40,7 @@
 - [Backend em .Net Core: API com arquitetura DDD](https://github.com/alexrocha97/Api_arquitetura_DDD)
 - [Backend em .Net Core: API Data Driven](https://github.com/alexrocha97/API-Data-Driven)
 - [Backend em Python: Flask e Conexão com Banco de dados MySql](https://github.com/alexrocha97/API-Data-Driven)
+- [Backend em .Net Core: C# com JavaScript](https://github.com/alexrocha97/Controle_Recurso)
   
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alexrocha97&color=green" alt="alexrocha97" />   
