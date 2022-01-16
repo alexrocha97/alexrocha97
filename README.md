@@ -17,6 +17,8 @@
 
 ##
 
+### Habilidades:
+
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,6 +32,8 @@
 </div>
 
   ##
+  
+  ### Contato:
   
 <div>
     <a href="https://www.instagram.com/aalexrocha_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
