@@ -32,16 +32,6 @@
 </div>
 
   ##
-  
-  ### Contato:
-  
-<div>
-    <a href="https://www.instagram.com/aalexrocha_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.com/channels/@AlexRocha#7880" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:venturarocha08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/alex-rocha-a38b26125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
    
   ### Demonstração de Conhecimentos
 
@@ -50,6 +40,9 @@
 - [Backend em Python: Flask e Conexão com Banco de dados MySql](https://github.com/alexrocha97/API-Data-Driven)
 - [Backend em .Net Core: C# com JavaScript](https://github.com/alexrocha97/Controle_Recurso)
   
+  
+ ##
+ 
  <div align="center">
   
 |<h3> Informações não tão necessárias: </h3> | <h3> Outros lugares que você pode me encontrar: </h3> |
