@@ -3,6 +3,9 @@
  ### Assuntos que venho estudando
   - [Arquitetura DDD em Api Web Core 5 ](https://github.com/alexrocha97/Api_arquitetura_DDD)
   
+ ##
+ 
+ ### Um pouco sobre mim:
 <p>
   Sou formado no curso técnico em <b>programação</b>, mas não comecei nenhuma faculdade relacionado a tecnologia(ainda). Procurei primeiro cursos que relacionado a programação para já iniciar no mercado de trabalho.
 
