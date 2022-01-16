@@ -1,8 +1,18 @@
- <h1 align="center"> <img src="anime.gif" width="80px" height="80px" />   Olá, bem vindo! Eu sou o Alex Ventura 👋 </h1>
+ <h1 align="center"> <img src="anime.gif" width="80px" height="80px" />   Olá, eu sou o Alex 👋 </h1>
  
  ### Assuntos que venho estudando
   - [Arquitetura DDD em Api Web Core 5 ](https://github.com/alexrocha97/Api_arquitetura_DDD)
   
+<p>
+  Sou formado no curso técnico em <b>programação</b>, mas não comecei nenhuma faculdade relacionado a tecnologia(ainda). Procurei primeiro cursos que relacionado a programação para já iniciar no mercado de trabalho.
+
+  Desde mais novo tive interesse na área de TI e, quando tive oportunidade de iniciar meus estudos não hesitei. Sempre fui curioso em relação como funcionava um computador, desde os  hardware  a os software. Com pouco tempo eu puder encontrar meu primeiro emprego na área da tecnologia e encontrar meu caminho como desenvolvedor de software. <br/><br/>
+
+  Atualmente trabalho como desenvolvedor <b>back-end</b>, onde utilizo C# e .NET, porém trabalhei tenho conhecimentos básicos em <b>front-end</b>, onde utilizo JS, Html e Css e também faço projetos pessoais com C#/.Net, Python e outras linguagens.
+  Não quero parar por aqui, ainda tenho muito a aprender e um <b>sonho</b> para alcançar, que é me tornar um Full Stark. <br/> <br/>
+</p>
+
+
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,21 +34,7 @@
     <a href="https://www.linkedin.com/in/alex-rocha-a38b26125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  
-  ##
-
-  ### <div align="center">I'm Alex Ventura, junior developer 👨‍💻starting career and student since 2020 🚀📚</div>  
-  
-- 🔭Currently, I am studying programming focused on junior developer [Blue Tech](https://portal.thefutureisblue.me/) [Balta.io](https://balta.io/player)  
-
-- 🌱📚 Currently, I am learning by learning intermediate level of Python,C# .NET Core, SQL, MySQL,SQL server, HTML, CSS (...)  
-  
-- 🤓 Teach me about anything related to technology or programming and you will have my respect for eternity ... hehehe
-
-- ⚡ Curiosity: I usually listen to classical music to program.  
-  
-  ##
-  
+   
   ### Demonstração de Conhecimentos
 
 - [Backend em .Net Core: API com arquitetura DDD](https://github.com/alexrocha97/Api_arquitetura_DDD)
