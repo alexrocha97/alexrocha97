@@ -54,8 +54,8 @@
   
 |<h3> Informações não tão necessárias: </h3> | <h3> Outros lugares que você pode me encontrar: </h3> |
 | :--- | :--- |
-| ⚔ Gosto de jogar Lightning Returns: Final Fantasy XIII |  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://www.linkedin.com/in/alex-rocha-a38b26125/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
-| 🐶 Tenho um cachorro muito fofo chamado Simon | _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://discord.com/channels/@AlexRocha#7880"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> |
+| ⚔ Gosto de jogar Minecraft |  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://www.linkedin.com/in/alex-rocha-a38b26125/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
+| Adora esportes | _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://discord.com/channels/@AlexRocha#7880"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> |
 | 📚 Adoro ler | _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://www.instagram.com/aalexrocha_/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
  
   
