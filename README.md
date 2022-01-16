@@ -1,4 +1,4 @@
- <h1 align="center"> <img src="../anime.gif" width="80px" height="80px" />   Olá, bem vindo! Eu sou o Alex Ventura 👋 </h1>
+ <h1 align="center"> <img src="anime.gif" width="80px" height="80px" />   Olá, bem vindo! Eu sou o Alex Ventura 👋 </h1>
  
  ### Assuntos que venho estudando
   - [Arquitetura DDD em Api Web Core 5 ](https://github.com/alexrocha97/Api_arquitetura_DDD)
