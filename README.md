@@ -50,14 +50,15 @@
 - [Backend em Python: Flask e Conexão com Banco de dados MySql](https://github.com/alexrocha97/API-Data-Driven)
 - [Backend em .Net Core: C# com JavaScript](https://github.com/alexrocha97/Controle_Recurso)
   
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexrocha97&color=green" alt="alexrocha97" />   
-</div>  
-
-<div align="center">
+ <div align="center">
   
 |<h3> Informações não tão necessárias: </h3> | <h3> Outros lugares que você pode me encontrar: </h3> |
 | :--- | :--- |
-| ⚔ Gosto de jogar Lightning Returns: Final Fantasy XIII |  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://www.linkedin.com/in/jannaina-sangaletti-3a8b47171/"><img src="./imgs/linkedinn.png" /> LinkedIn</a> |
+| ⚔ Gosto de jogar Lightning Returns: Final Fantasy XIII |  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://www.linkedin.com/in/alex-rocha-a38b26125/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> LinkedIn</a> |
 | 🐶 Tenho um cachorro muito fofo chamado Simon | _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://twitter.com/janna_end"><img src="./imgs/twitter.png" /> Twitter </a> |
 | 📚 Adoro ler | _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://instagram.com/jnnastti"><img src="./imgs/instagramm.png" /> Instagram </a> |
+ 
+  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexrocha97&color=green" alt="alexrocha97" />   
+</div>  
