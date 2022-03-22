@@ -2,7 +2,6 @@
  
  ### Assuntos que venho estudando
   - [Arquitetura DDD em Api Web Core 5 ](https://github.com/alexrocha97/Api_arquitetura_DDD)
-  - [Estudo da área de front no rocketseat ](https://github.com/alexrocha97/Estudo_Rocketseat)
   
  ##
  
