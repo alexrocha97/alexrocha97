@@ -2,7 +2,8 @@
  
  ### Assuntos que venho estudando
   - [Arquitetura DDD em Api Web Core 5 ](https://github.com/alexrocha97/Api_arquitetura_DDD)
-  
+  - [Estudo focado em Python 3](https://github.com/alexrocha97/Estudo_focado_em_Python-3)
+ 
  ##
  
  ### Um pouco sobre mim:
