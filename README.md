@@ -1,6 +1,6 @@
  <h1 align="center">Olá, eu sou o Alex 👋 </h1>
  
- ### Assuntos que venho estudando
+ ### Assunto atualmente estudando
  
   - [API com conceitos DDD + EF + Docker + IOC em .NET CORE 3.1](https://github.com/alexrocha97/API_Net_Core)
  
