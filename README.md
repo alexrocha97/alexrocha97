@@ -2,7 +2,7 @@
  
  ### Assunto atualmente estudando
  
-  - [API com conceitos DDD + EF + Docker + IOC em .NET CORE 3.1](https://github.com/alexrocha97/API_Net_Core)
+  - 
  
  ##
  
@@ -36,12 +36,10 @@
    
   ### Demonstração de Conhecimentos
 
-- [Backend em .Net Core: API com arquitetura DDD](https://github.com/alexrocha97/Api_arquitetura_DDD)
 - [Backend em .Net Core: API Data Driven](https://github.com/alexrocha97/API-Data-Driven)
 - [Backend em Python: Flask e Conexão com Banco de dados MySql](https://github.com/alexrocha97/API-Data-Driven)
-- [Backend em .Net Core: C# com JavaScript](https://github.com/alexrocha97/Controle_Recurso)
 - [Arquitetura DDD em Api Web Core 5 ](https://github.com/alexrocha97/Api_arquitetura_DDD)
-- [Estudo focado em Python 3](https://github.com/alexrocha97/Estudo_focado_em_Python-3)
+- [API com conceitos DDD + EF + Docker + IOC em .NET CORE 3.1](https://github.com/alexrocha97/API_Net_Core)
   
   
  ##
