@@ -2,7 +2,7 @@
  
  ### Assunto atualmente estudando
  
-  - 
+  - [Estudo do básico ao avançado em BackEnd-Pyhton](https://github.com/alexrocha97/Estudo_focado_em_Python-3)
  
  ##
  
