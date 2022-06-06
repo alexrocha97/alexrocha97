@@ -37,8 +37,6 @@
   ### Demonstração de Conhecimentos
 
 - [Backend em .Net Core: API Data Driven](https://github.com/alexrocha97/API-Data-Driven)
-- [Backend em Python: Flask e Conexão com Banco de dados MySql](https://github.com/alexrocha97/API-Data-Driven)
-- [Arquitetura DDD em Api Web Core 5 ](https://github.com/alexrocha97/Api_arquitetura_DDD)
 - [API com conceitos DDD + EF + Docker + IOC em .NET CORE 3.1](https://github.com/alexrocha97/API_Net_Core)
   
   
