@@ -1,11 +1,5 @@
  <h1 align="center">Olá, eu sou o Alex 👋 </h1>
  
- ### Assunto atualmente estudando
- 
-  - [Estudo do básico ao avançado em BackEnd-Pyhton](https://github.com/alexrocha97/Estudo_focado_em_Python-3)
- 
- ##
- 
  ### Um pouco sobre mim:
 <p>
   Sou formado no curso técnico em <b>programação</b>, mas não comecei nenhuma faculdade relacionado a tecnologia(ainda). Procurei primeiro cursos que relacionado a programação para já iniciar no mercado de trabalho.
