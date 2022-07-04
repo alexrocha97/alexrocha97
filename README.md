@@ -6,7 +6,7 @@
 
   Desde mais novo tive interesse na área de TI e, quando tive oportunidade de iniciar meus estudos não hesitei. Sempre fui curioso em relação como funcionava um computador, desde os  hardware  a os software. Com pouco tempo eu puder encontrar meu primeiro emprego na área da tecnologia e encontrar meu caminho como desenvolvedor de software. <br/><br/>
 
-  Atualmente trabalho como desenvolvedor <b>back-end</b>, onde utilizo C# e .NET, porém trabalhei tenho conhecimentos básicos em <b>front-end</b>, onde utilizo JS, Html e Css e também faço projetos pessoais com C#/.Net, Python e outras linguagens.
+  Atualmente trabalho como desenvolvedor <b>back-end</b>, onde utilizo C# e .NET, porém trabalhei  e tenho conhecimentos básicos em <b>front-end</b>, onde utilizo JS, Html e Css e também faço projetos pessoais com C#/.Net, Python e outras linguagens.
   Não quero parar por aqui, ainda tenho muito a aprender e um <b>sonho</b> para alcançar, que é me tornar um Full Stark. <br/> <br/>
 </p>
 
