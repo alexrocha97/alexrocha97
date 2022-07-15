@@ -29,8 +29,7 @@
   ##
    
   ### Demonstração de Conhecimentos
-
-- [Backend em .Net Core: API Data Driven](https://github.com/alexrocha97/API-Data-Driven)
+  
 - [API com conceitos DDD + EF + Docker + IOC em .NET CORE 3.1](https://github.com/alexrocha97/API_Net_Core)
   
   
