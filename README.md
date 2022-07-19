@@ -22,6 +22,7 @@
   <img align="center" alt="Alex-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Alex-Net" height="30" width="70" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="Alex-Csharp" height="30" width="70" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Alex-MongoDB" height="30" width="70" src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=MongoDB&logoColor=F7DF1E">
   <img align="center" alt="Alex-Csharp" height="30" width="70" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="right" alt="Alex-tobirama" src="https://media1.tenor.com/images/fb7c7ee08851655824e6dc9c5d1024dc/tenor.gif?itemid=4474077">
 </div>
