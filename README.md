@@ -30,7 +30,7 @@
    
   ### Demonstração de Conhecimentos
   
-- [API com conceitos DDD + EF + Docker + IOC em .NET CORE 3.1](https://github.com/alexrocha97/API_Net_Core)
+- [API .Net + Conexão ao MongoDB / Estudo sobre o Banco NoSQL ](https://github.com/alexrocha97/APIMongoDB)
   
   
  ##
