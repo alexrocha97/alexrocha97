@@ -41,7 +41,7 @@
   ### Projetos pessoais e fixação de conhecimentos
   
 - [APIs + Conexão ao MongoDB / Estudo sobre o Banco NoSQL ](https://github.com/alexrocha97/APIMongoDB)
-- [API .NET Core Noticias + Login(Token JWT)|| Estudo sobre o DDD(Domain-Driven Design) ](https://github.com/alexrocha97/mysite_api)
+- [API .NET Core Noticias + Login(Token JWT) || Estudo sobre o DDD(Domain-Driven Design) ](https://github.com/alexrocha97/mysite_api)
 - [API Angula + Conexão com API .NET Core || Estudo sobre integração de API backend + CORS + Front](https://github.com/alexrocha97/mysite_angular)
   
  ##
