@@ -38,7 +38,7 @@
 
   ##
    
-  ### Demonstração de Conhecimentos
+  ### Projetos pessoais e fixação de conhecimentos
   
 - [APIs + Conexão ao MongoDB / Estudo sobre o Banco NoSQL ](https://github.com/alexrocha97/APIMongoDB)
   
