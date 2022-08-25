@@ -40,7 +40,7 @@
    
   ### Demonstração de Conhecimentos
   
-- [API .Net + Conexão ao MongoDB / Estudo sobre o Banco NoSQL ](https://github.com/alexrocha97/APIMongoDB)
+- [APIs + Conexão ao MongoDB / Estudo sobre o Banco NoSQL ](https://github.com/alexrocha97/APIMongoDB)
   
   
  ##
