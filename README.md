@@ -43,6 +43,7 @@
 - [APIs + Conexão ao MongoDB / Estudo sobre o Banco NoSQL ](https://github.com/alexrocha97/APIMongoDB)
 - [API .NET Core Noticias + Login(Token JWT) || Estudo sobre o DDD(Domain-Driven Design) ](https://github.com/alexrocha97/mysite_api)
 - [API RESTful do zero com .NET, MongoDB, Redis e Docker](https://github.com/alexrocha97/API-RESTful_NET6)
+- [Estudo e aprimoramento de testes TDD](https://github.com/alexrocha97/TDD_com_xUnit_para_C-_.NET_Core)
   
  ##
  
