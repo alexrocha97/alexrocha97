@@ -1,14 +1,9 @@
 <h1 align="center">Olá, eu sou o Alex 👋 </h1> 
  
- ### Um pouco sobre mim:
+ ### Resumo:
 
 <p>
-  Sou formado no curso técnico em <b>programação</b>, mas não comecei nenhuma faculdade relacionado a tecnologia(ainda). Procurei primeiro cursos que relacionado a programação para já iniciar no mercado de trabalho.
-
-  Desde mais novo tive interesse na área de TI e, quando tive oportunidade de iniciar meus estudos não hesitei. Sempre fui curioso em relação como funcionava um computador, desde os  hardware  a os software. Com pouco tempo eu puder encontrar meu primeiro emprego na área da tecnologia e encontrar meu caminho como desenvolvedor de software. <br/><br/>
-
-  Atualmente trabalho como desenvolvedor <b>back-end</b>, onde utilizo C# e .NET, porém trabalhei  e tenho conhecimentos básicos em <b>front-end</b>, onde utilizo JS, Html e Css e também faço projetos pessoais com C#/.Net, Python e outras linguagens.
-  Não quero parar por aqui, ainda tenho muito a aprender e um <b>sonho</b> para alcançar, que é me tornar um Full Stark. <br/> <br/>
+Atualmente estudando e atuando em desenvolvimento back-end com C# e front-end. Estou em processo de aprendizagem contínuo com a mistura de coisas novas tanto do trabalho no dia a dia, quanto academicamente. Trabalho em equipe e compartilhamento de conhecimentos ajuda muito no meu processo de crescimento profissional e pessoal. Sou proativo, sempre disposto a aceitar feedbacks para poder identificar pontos de melhoria para focar e acrescentar mais conhecimento e experiência na minha carreira. As metodologia que uso e já usei em projetos foram a Scrum e a Kanban. Por todos esses anos minha principal função foi desenvolver aplicações C# com frameworks como .Net Core, utilizando xUnit para TDD, conhecimentos usuais no cotidiano bancos de dados relacional e no relacional, como SqlServer e MongoDB. No Frontend trabalhei Html, CSS, Javascript e Angular. Também trabalhei com ferramentas de infraestrutura como Docker. Para controle de versão uso Git e o GitHub e também contribuo projetos pessoais e conhecimentos adquiridos usando GitHub.
 </p>
 
 ##
@@ -19,7 +14,7 @@
 
 <div style="display: inline_block"><br>
 
-  <img alt="Net" height="30" width="70" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img alt="Net" height="40" width="70" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img alt="Python" height="30" width="70" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="C#" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="SQLServer" height="30" width="70" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
