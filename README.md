@@ -1,9 +1,11 @@
 <h1 align="center">Olá, eu sou o Alex 👋 </h1> 
  
- ### Resumo:
+ ### Um pouco sobre mim:
 
 <p>
-Atualmente estudando e atuando em desenvolvimento back-end com C# e front-end. Estou em processo de aprendizagem contínuo com a mistura de coisas novas tanto do trabalho no dia a dia, quanto academicamente. Trabalho em equipe e compartilhamento de conhecimentos ajuda muito no meu processo de crescimento profissional e pessoal. Sou proativo, sempre disposto a aceitar feedbacks para poder identificar pontos de melhoria para focar e acrescentar mais conhecimento e experiência na minha carreira. As metodologia que uso e já usei em projetos foram a Scrum e a Kanban. Por todos esses anos minha principal função foi desenvolver aplicações C# com frameworks como .Net Core, utilizando xUnit para TDD, conhecimentos usuais no cotidiano bancos de dados relacional e no relacional, como SqlServer e MongoDB. No Frontend trabalhei Html, CSS, Javascript e Angular. Também trabalhei com ferramentas de infraestrutura como Docker. Para controle de versão uso Git e o GitHub e também contribuo projetos pessoais e conhecimentos adquiridos usando GitHub.
+Atualmente, estou me dedicando ao estudo e desenvolvimento de aplicativos de back-end utilizando C# e front-end. Estou em constante aprendizado, buscando incorporar novos conhecimentos tanto no meu trabalho diário quanto academicamente. Trabalhar em equipe e compartilhar conhecimentos é fundamental para o meu crescimento profissional e pessoal. Sou uma pessoa proativa, sempre aberta a feedbacks para identificar áreas de melhoria e adquirir mais conhecimento e experiência em minha carreira.
+
+Tenho experiência nas metodologias Scrum e Kanban, as quais utilizei em projetos anteriores. Ao longo dos anos, minha principal responsabilidade tem sido o desenvolvimento de aplicações C# utilizando frameworks como .Net Core. Tenho familiaridade com o uso do xUnit para TDD e experiência prática em bancos de dados tanto relacionais (como SqlServer) quanto não relacionais (como MongoDB). No front-end, trabalhei com HTML, CSS, Javascript e Angular. Além disso, possuo conhecimentos em ferramentas de infraestrutura, como Docker. Para controle de versão, utilizo Git e GitHub, onde também contribuo com projetos pessoais e compartilho conhecimentos adquiridos.
 </p>
 
 ##
