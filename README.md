@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou o Alex Rocha</h1>
 Atualmente, estou me dedicando ao estudo e desenvolvimento de aplicativos de back-end utilizando C# e front-end. Estou em constante aprendizado, buscando incorporar novos conhecimentos tanto no meu trabalho diário quanto academicamente. Trabalhar em equipe e compartilhar conhecimentos é fundamental para o meu crescimento profissional e pessoal. Sou uma pessoa proativa, sempre aberta a feedbacks para identificar áreas de melhoria e adquirir mais conhecimento e experiência em minha carreira. Tenho experiência nas metodologias Scrum e Kanban, as quais utilizei em projetos anteriores. Ao longo dos anos, minha principal responsabilidade tem sido o desenvolvimento de aplicações C# utilizando frameworks como .Net Core. Tenho familiaridade com o uso do xUnit para TDD e experiência prática em bancos de dados tanto relacionais (como SqlServer) quanto não relacionais (como MongoDB). No front-end, trabalhei com HTML, CSS, Javascript e Angular. Além disso, possuo conhecimentos em ferramentas de infraestrutura, como Docker. Para controle de versão, utilizo Git e GitHub, onde também contribuo com projetos pessoais e compartilho conhecimentos adquiridos.
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexrocha97" alt="alexrocha97" /></a> </p>
-
+<br>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://twitter.com/ventura1997alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ventura1997alex" height="30" width="40" /></a>
@@ -28,7 +28,6 @@ Atualmente, estou me dedicando ao estudo e desenvolvimento de aplicativos de bac
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 <p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexrocha97&label=Profile%20views&color=0e75b6&style=flat" alt="alexrocha97" /> </p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrocha97&show_icons=true&locale=en&layout=compact" alt="alexrocha97" />
 </p>
 <p>
@@ -37,3 +36,4 @@ Atualmente, estou me dedicando ao estudo e desenvolvimento de aplicativos de bac
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexrocha97&" alt="alexrocha97" />
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexrocha97&label=Profile%20views&color=0e75b6&style=flat" alt="alexrocha97" /> </p>
