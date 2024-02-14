@@ -27,15 +27,16 @@ Atualmente, estou me dedicando ao estudo e desenvolvimento de aplicativos de bac
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
-<!-- <div style="display: flex; justify-content: space-between;">
-  <p style="margin-right: 10px;">
+<br>
+<div style="display: flex; justify-content: space-between;">
+  <!-- <p style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrocha97&show_icons=true&locale=en&layout=compact" alt="alexrocha97"/>
-  </p>
+  </p> -->
   <p style="display: inline-block; margin-right: 10px;">
     &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alexrocha97&show_icons=true&locale=en" alt="alexrocha97">
   </p>
-  <p style="display: inline-block;">
+  <!-- <p style="display: inline-block;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexrocha97&" alt="alexrocha97"/>
-  </p>
-</div> -->
+  </p> -->
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexrocha97&label=Profile%20views&color=0e75b6&style=flat" alt="alexrocha97" /> </p>
