@@ -1,42 +1,65 @@
-<h1 align="center">Olá 👋, Eu sou o Alex Rocha <img src="/alexrocha97/tobirama_senju__ntsd__taunt_by_johnmuffin_ddt7wpq.gif"></h1>
-Atualmente, estou me dedicando ao estudo e desenvolvimento de aplicativos de back-end utilizando C# e front-end. Estou em constante aprendizado, buscando incorporar novos conhecimentos tanto no meu trabalho diário quanto academicamente. Trabalhar em equipe e compartilhar conhecimentos é fundamental para o meu crescimento profissional e pessoal. Sou uma pessoa proativa, sempre aberta a feedbacks para identificar áreas de melhoria e adquirir mais conhecimento e experiência em minha carreira. Tenho experiência nas metodologias Scrum e Kanban, as quais utilizei em projetos anteriores. Ao longo dos anos, minha principal responsabilidade tem sido o desenvolvimento de aplicações C# utilizando frameworks como .Net Core. Tenho familiaridade com o uso do xUnit para TDD e experiência prática em bancos de dados tanto relacionais (como SqlServer) quanto não relacionais (como MongoDB). No front-end, trabalhei com HTML, CSS, Javascript e Angular. Além disso, possuo conhecimentos em ferramentas de infraestrutura, como Docker. Para controle de versão, utilizo Git e GitHub, onde também contribuo com projetos pessoais e compartilho conhecimentos adquiridos.
-<br>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexrocha97" alt="alexrocha97" /></a> </p> -->
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-  <a href="https://twitter.com/ventura1997alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ventura1997alex" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/alexventura1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     alt="https://www.linkedin.com/in/alexventura1997/" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/aalexrocha_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"   alt="https://www.instagram.com/aalexrocha_/" height="30" width="40" /></a>
-  <a href="https://discord.com/channels/tobirama97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tobirama97" height="30" width="40" /></a>
+<h1 align="center">Olá 👋, eu sou o Alex Rocha</h1>
+<p align="center">
+  <img src="/alexrocha97/tobirama_senju__ntsd__taunt_by_johnmuffin_ddt7wpq.gif" alt="Tobirama GIF" width="200" />
 </p>
 
-<h3 align="left">Ferramentas e frameworks</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+Sou desenvolvedor backend com foco em C# e .NET, apaixonado por criar soluções eficientes, escaláveis e bem estruturadas. Estou sempre em busca de evoluir tecnicamente e contribuir com projetos que impactem positivamente pessoas e negócios.
+
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 💼 Experiência com aplicações backend em C# (.NET Core)
+- 🧪 Adepto de testes com xUnit e práticas de TDD
+- 🗃️ Trabalho com bancos de dados relacionais (SQL Server) e NoSQL (MongoDB)
+- 🧰 Familiaridade com Docker, Git e GitHub
+- 🌐 Conhecimento básico de front-end com Angular, HTML, CSS e JavaScript
+- 🔄 Metodologias: Scrum e Kanban
+- 🤝 Acredito no poder da colaboração, feedbacks e aprendizado contínuo
+
+---
+
+### 🧰 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
-<br>
-<div style="display: flex; justify-content: space-between;">
-  <!-- <p style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrocha97&show_icons=true&locale=en&layout=compact" alt="alexrocha97"/>
-  </p> -->
-  <p style="display: inline-block; margin-right: 10px;">
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alexrocha97&show_icons=true&locale=en" alt="alexrocha97">
-  </p>
-  <!-- <p style="display: inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexrocha97&" alt="alexrocha97"/>
-  </p> -->
-</div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexrocha97&label=Profile%20views&color=0e75b6&style=flat" alt="alexrocha97" /> </p>
+
+---
+
+### 📌 Projetos em destaque
+
+- Em breve! Repositórios e projetos em construção.
+
+---
+
+### 📬 Conecte-se comigo
+
+<p align="left">
+  <a href="https://twitter.com/ventura1997alex" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alexventura1997/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/aalexrocha_/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://discord.com/channels/tobirama97" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexrocha97&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexrocha97&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
